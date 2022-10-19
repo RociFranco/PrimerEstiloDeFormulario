@@ -6,16 +6,7 @@
 
 
 Utilizamos el div y lo colocamos si fueran celdas de tablas en el centro
-con; 
 
-
-    
-    {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 650px;
-   }
 
 
 
